@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/cypherspot/static/js/main.a345b5e2.chunk.js",
-    "main.js.map": "/cypherspot/static/js/main.a345b5e2.chunk.js.map",
+    "main.js": "/cypherspot/static/js/main.a5a19181.chunk.js",
+    "main.js.map": "/cypherspot/static/js/main.a5a19181.chunk.js.map",
     "runtime-main.js": "/cypherspot/static/js/runtime-main.09a9f47b.js",
     "runtime-main.js.map": "/cypherspot/static/js/runtime-main.09a9f47b.js.map",
     "static/js/2.ed1219b5.chunk.js": "/cypherspot/static/js/2.ed1219b5.chunk.js",
     "static/js/2.ed1219b5.chunk.js.map": "/cypherspot/static/js/2.ed1219b5.chunk.js.map",
     "index.html": "/cypherspot/index.html",
-    "precache-manifest.6243283bdb9654429d5a7e67c4afc9f3.js": "/cypherspot/precache-manifest.6243283bdb9654429d5a7e67c4afc9f3.js",
+    "precache-manifest.dbd8489738a0f2ae07092f0646905b0b.js": "/cypherspot/precache-manifest.dbd8489738a0f2ae07092f0646905b0b.js",
     "service-worker.js": "/cypherspot/service-worker.js",
     "static/js/2.ed1219b5.chunk.js.LICENSE.txt": "/cypherspot/static/js/2.ed1219b5.chunk.js.LICENSE.txt",
     "static/media/Paul.jpg": "/cypherspot/static/media/Paul.1f43e306.jpg",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.09a9f47b.js",
     "static/js/2.ed1219b5.chunk.js",
-    "static/js/main.a345b5e2.chunk.js"
+    "static/js/main.a5a19181.chunk.js"
   ]
 }
