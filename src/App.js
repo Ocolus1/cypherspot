@@ -8,6 +8,7 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
+  IndexRoute
 } from "react-router-dom"
 import { BreakpointProvider } from 'react-socks'
 import Resume from "./components/Resume"
@@ -31,16 +32,14 @@ export default class App extends React.Component {
           <Router>
             <Header />
             <Switch>
-              <Route exact path="/">
-                <Home />
-              </Route>
-              <Route path="/project">
+            <IndexRoute component={Home}/>
+              <Route exact path="/project">
                 <Project />
               </Route>
-              <Route path="/education">
+              <Route exact path="/education">
                 <Education />
               </Route>
-              <Route path="/resume">
+              <Route exact path="/resume">
                 <Resume />
               </Route>
             </Switch>
