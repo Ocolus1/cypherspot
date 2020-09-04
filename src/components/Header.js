@@ -3,6 +3,7 @@ import Container from "react-bootstrap/Container";
 import Navbar from "react-bootstrap/Navbar";
 import Navigation from "./Navigation"
 import { Breakpoint } from "react-socks"
+import { Link } from "react-router-dom";
 
 export default function Header() {
     const mystyle = {
@@ -16,12 +17,14 @@ export default function Header() {
                 expand="lg"
                 // variant="light"
                 // bg="light"
-                fixed="top" 
+                fixed="top"
                 style={mystyle}
             >
                 <Container>
                     <span className="font-weight-bold">
-                        <Navbar.Brand href="#" className="text-white">Cypherspot</Navbar.Brand>
+                        <Link to="/">
+                            <Navbar.Brand href="#" className="text-white">Cypherspot</Navbar.Brand>
+                        </Link>
                     </span>
                     <Breakpoint small down>
                         <Navigation />
