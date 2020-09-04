@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e433a8381c20ac778563306dedbb9c5",
+    "revision": "0e8e3d6b8efade741c53db3494e19417",
     "url": "/cypherspot/index.html"
   },
   {
-    "revision": "8e98040653da56cc3d02",
-    "url": "/cypherspot/static/js/2.ed1219b5.chunk.js"
+    "revision": "30600cf5cd9b3ff675c6",
+    "url": "/cypherspot/static/js/2.4cf1520b.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/cypherspot/static/js/2.ed1219b5.chunk.js.LICENSE.txt"
+    "url": "/cypherspot/static/js/2.4cf1520b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51870c41b5a58827432c",
-    "url": "/cypherspot/static/js/main.f38ecb0f.chunk.js"
+    "revision": "fbeded3832075cebd02a",
+    "url": "/cypherspot/static/js/main.884eaeaa.chunk.js"
   },
   {
     "revision": "d364f57385a208309955",
