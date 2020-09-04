@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cypherspot/precache-manifest.f272c3397cdc46684cc1e78e08d949df.js"
+  "/cypherspot/precache-manifest.27361846a71e0d4b61e2565112f4cc69.js"
 );
 
 self.addEventListener('message', (event) => {
