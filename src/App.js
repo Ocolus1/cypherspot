@@ -28,11 +28,11 @@ export default class App extends React.Component {
       // eslint-disable-next-line
       style={nop}>
         <BreakpointProvider>
-          {/* <Router basename={process.env.PUBLIC_URL}> */}
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
+          {/* <Router> */}
             <Header />
             <Switch>
-              <Route exact path={process.env.PUBLIC_URL + '/'}>
+              <Route exact path="/">
                 <Home />
               </Route>
               <Route exact path="/project">
