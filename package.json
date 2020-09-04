@@ -2,7 +2,7 @@
   "name": "cypherspot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Ocolus1.github.io/cypherspot/",
+  "homepage": "http://Ocolus1.github.io/cypherspot",
   "dependencies": {
     "-": "^0.0.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.30",

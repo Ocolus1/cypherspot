@@ -56,7 +56,7 @@ function Navigation(props) {
                         </span>
                         <ListGroup variant="flush">
                             <ListGroup.Item className="bg-transparent">
-                                <Link to="/home" onClick={() => setShowMenu(false)} className="text-white">
+                                <Link to="/" onClick={() => setShowMenu(false)} className="text-white">
                                     Me
                                 </Link>
                             </ListGroup.Item>
