@@ -22,7 +22,7 @@ export default function Header() {
             >
                 <Container>
                     <span className="font-weight-bold">
-                        <Link to="/">
+                        <Link to="/home">
                             <Navbar.Brand href="#" className="text-white">Cypherspot</Navbar.Brand>
                         </Link>
                     </span>

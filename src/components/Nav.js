@@ -12,7 +12,7 @@ function Nav(props) {
         >
             <ul className="list-group list-group-flush mt-2">
                 <li className="list-group-item bg-transparent">
-                    <Link to="/" className="text-white">
+                    <Link to="/home" className="text-white">
                         Me
                     </Link>
                 </li>
