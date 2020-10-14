@@ -14,16 +14,16 @@ function Resume(props) {
                     <Col xs={12} md={9} className="pb-5 mt-3">
                         <Breakpoint medium up>
                             <Container>
-                                {/* <div class=""> */}
-                                <embed src={require("../media/paul_canada_2.pdf")} class="embed-responsive-item"
-                                    type="application/pdf" scrolling="auto" width="100%" height="1200px" />
+                                {/* <div class=""> */}                  
+                                <embed src={require("../media/paul_canada_2.pdf")} class="embed-responsive-item" 
+                                type="application/pdf" scrolling="auto" width="100%" height="1200px" />
                                 {/* </div> */}
                             </Container>
                         </Breakpoint>
                         <Breakpoint medium down>
                             <Container>
                                 {/* <div class=""> */}
-                                <embed src={require("../media/paul_malta.pdf")} class="embed-responsive-item fluid"
+                                <embed src={require("../media/paul_canada.pdf")} class="embed-responsive-item fluid"
                                     type="application/pdf" scrolling="auto" width="100%" height="1000px" />
                                 {/* </div> */}
                             </Container>
