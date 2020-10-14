@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.js": "/cypherspot/static/js/main.a5a19181.chunk.js",
-    "main.js.map": "/cypherspot/static/js/main.a5a19181.chunk.js.map",
+    "main.js": "/cypherspot/static/js/main.d0bab123.chunk.js",
+    "main.js.map": "/cypherspot/static/js/main.d0bab123.chunk.js.map",
     "runtime-main.js": "/cypherspot/static/js/runtime-main.09a9f47b.js",
     "runtime-main.js.map": "/cypherspot/static/js/runtime-main.09a9f47b.js.map",
-    "static/js/2.ed1219b5.chunk.js": "/cypherspot/static/js/2.ed1219b5.chunk.js",
-    "static/js/2.ed1219b5.chunk.js.map": "/cypherspot/static/js/2.ed1219b5.chunk.js.map",
+    "static/js/2.b0cd0f63.chunk.js": "/cypherspot/static/js/2.b0cd0f63.chunk.js",
+    "static/js/2.b0cd0f63.chunk.js.map": "/cypherspot/static/js/2.b0cd0f63.chunk.js.map",
     "index.html": "/cypherspot/index.html",
-    "precache-manifest.dbd8489738a0f2ae07092f0646905b0b.js": "/cypherspot/precache-manifest.dbd8489738a0f2ae07092f0646905b0b.js",
+    "precache-manifest.3c4bc838d86eaac972a94e9a143f8aac.js": "/cypherspot/precache-manifest.3c4bc838d86eaac972a94e9a143f8aac.js",
     "service-worker.js": "/cypherspot/service-worker.js",
-    "static/js/2.ed1219b5.chunk.js.LICENSE.txt": "/cypherspot/static/js/2.ed1219b5.chunk.js.LICENSE.txt",
+    "static/js/2.b0cd0f63.chunk.js.LICENSE.txt": "/cypherspot/static/js/2.b0cd0f63.chunk.js.LICENSE.txt",
     "static/media/Paul.jpg": "/cypherspot/static/media/Paul.1f43e306.jpg",
-    "static/media/paul_malta.pdf": "/cypherspot/static/media/paul_malta.7aa2e856.pdf"
+    "static/media/paul_canada.pdf": "/cypherspot/static/media/paul_canada.0038e4cb.pdf",
+    "static/media/paul_canada_2.pdf": "/cypherspot/static/media/paul_canada_2.38d772a3.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.09a9f47b.js",
-    "static/js/2.ed1219b5.chunk.js",
-    "static/js/main.a5a19181.chunk.js"
+    "static/js/2.b0cd0f63.chunk.js",
+    "static/js/main.d0bab123.chunk.js"
   ]
 }
