@@ -17,15 +17,15 @@ function SmalBio(props) {
                         alt="Paul" />
                     <Media.Body className="text-wrap d-block text-center" >
                         <div className="p-0 mr-2" >
-                            <h5> Awolesi Paul </h5>
-                            <h6> Junior Software Developer </h6>
+                            <h5> Paul Awolesi </h5>
+                            <h6> Software Developer and Data Analyst </h6>
                             <p><small> awolesiboluwatife@gmail.com </small></p >
-                            <p> +234 - 819 - 147 - 8957 </p>
-                            <p><a href="http://www.cypherspot.com"
+                            <p> +1-(917)-338-2426 </p>
+                            <p><a href="http://www.cypherspot.xyz"
                                 className="text-white"
                                 rel="noopener noreferrer"
                                 target="_blank" >www.cypherspot.xyz </a></p >
-                            <p> Malta </p>
+                            <p> Canada </p>
                         </div>
                     </Media.Body>
                 </Col>

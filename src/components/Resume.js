@@ -15,7 +15,7 @@ function Resume(props) {
                         <Breakpoint medium up>
                             <Container>
                                 {/* <div class=""> */}
-                                <embed src={require("../media/paul_malta.pdf")} class="embed-responsive-item"
+                                <embed src={require("../media/paul_canada_2.pdf")} class="embed-responsive-item"
                                     type="application/pdf" scrolling="auto" width="100%" height="1200px" />
                                 {/* </div> */}
                             </Container>
